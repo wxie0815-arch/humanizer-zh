@@ -1,9 +1,6 @@
 ---
 name: humanizer-zh
-version: 1.1.0
-description: 针对中文语境，去除AI生成文本的"AI味"，使其更自然、更像人类写作。基于24条核心人性化原则，专为中文加密货币内容优化。
-author: wxie0815-arch
-tags: [writing, humanizer, chinese, ai-detection, content-optimization]
+description: 针对中文语境，去除AI生成文本的"AI味"，使其更自然、更像人类写作。基于24条核心人性化原则，专为中文加密货币内容优化。是三阶段写作流程的第三阶段，接收copywriting的文章初稿并输出最终版本。
 ---
 
 # Humanizer-zh: 中文AI文本优化
@@ -109,42 +106,3 @@ writing-plans  →  copywriting  →  humanizer-zh
 ```bash
 gh repo clone wxie0815-arch/humanizer-zh
 ```
-
----
-
-## 💰 赞助支持
-
-如果这个项目对您有帮助，欢迎赞助支持！
-
-**BSC（BEP-20）钱包地址：**
- 
-
-支持 USDT / BNB / 任意 BEP-20 代币。感谢每一位支持者 🙏
-
-**作者：** 无邪Infinity | 币安广场 [@wuxie](https://www.binance.com/en/square/profile/wuxie) | X [@wuxie149](https://x.com/wuxie149)
-
----
-
-## 💰 赞助支持
-
-如果这个项目对您有帮助，欢迎赞助支持！
-
-**BSC（BEP-20）钱包地址：**
- 
-
-支持 USDT / BNB / 任意 BEP-20 代币。感谢每一位支持者 🙏
-
-**作者：** 无邪Infinity | 币安广场 [@wuxie](https://www.binance.com/en/square/profile/wuxie) | X [@wuxie149](https://x.com/wuxie149)
-
----
-
-## 💰 赞助支持
-
-如果这个项目对您有帮助，欢迎赞助支持！
-
-**BSC（BEP-20）钱包地址：**
-`0x3B74BE938caB987120C3661C8e3161CD838e5a1A` 
-
-支持 USDT / BNB / 任意 BEP-20 代币。感谢每一位支持者 🙏
-
-**作者：** 无邪Infinity | 币安广场 [@wuxie](https://www.binance.com/en/square/profile/wuxie) | X [@wuxie149](https://x.com/wuxie149)

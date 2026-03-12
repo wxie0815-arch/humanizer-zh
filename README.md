@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.1.0-blue)](https://github.com/wxie0815-arch/humanizer-zh)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-green)](https://openclaw.ai)
-[![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 针对中文语境，基于24条核心人性化原则，去除AI生成文本的"AI味"，使其更自然、更像人类写作。专为加密货币内容优化。
 
@@ -37,26 +37,7 @@ gh repo clone wxie0815-arch/humanizer-zh
 
 ### 独立使用
 
-```python
-from writing_skill import WritingSkill
-
-skill = WritingSkill()
-final_article = skill.humanize(
-    draft="此外，值得注意的是，$BTC的价格走势呈现出明显的上升趋势...",
-    style_fingerprint="用户历史写作风格（可选）"
-)
-print(final_article)
-```
-
-## 📋 优化效果对比
-
-| 维度 | 优化前（AI味） | 优化后（人味） |
-|------|--------------|--------------|
-| 连接词 | "此外，值得注意的是..." | 直接陈述或自然过渡 |
-| 情感 | 中立、客观 | 有观点、有态度 |
-| 句式 | 长句堆砌 | 长短句交替 |
-| 词汇 | 书面语、学术腔 | 口语化、接地气 |
-| 结尾 | "综上所述..." | 行动引导或思考方向 |
+详细的 Prompt 指令、输入输出格式和示例，请参考 `SKILL.md`。
 
 ## 🔗 相关 Skill
 
@@ -68,7 +49,7 @@ print(final_article)
 
 ## 📄 许可证
 
-MIT License — 自由使用、修改和分发。
+MIT License
 
 ---
 
